@@ -35,27 +35,30 @@
 **Current Grind:** Exploring AWS, getting hands-on with network security tools like Nmap, and tackling a Java course via NPTEL.
 
 **Featured Builds:**
-* **Slice:** A bill-splitting app that extracts line items from receipt images.
-* **SkillSwap:** A secure MERN-stack P2P learning platform.
+* **[Slice](https://github.com/shashankachar19/Slice):** A bill-splitting app that extracts line items from receipt images via OCR. (Deployed).
+* **[SkillSwap](https://github.com/shashankachar19/SkillSwap):** A secure MERN-stack P2P learning platform featuring real-time chat, JWT security, and Google OAuth.
 
 **The Vault (Archived Builds):**
-* **E-Commerce Storefront:** An Amazon-inspired full-stack platform.
-* **Real-Time Comm:** A responsive chat application.
-* **Security:** A custom, secure user authentication system.
+* **[Amazon-Replica](https://github.com/shashankachar19/Amazon-replica):** Full-stack e-commerce architecture (React/Node.js) featuring Google OAuth and a comprehensive suite of 50+ automated test cases.
+* **[AI-Muse-Research-Platform](https://github.com/shashankachar19/AI-Muse-Research-Platform):** Advanced full-stack assistant with collaboration tools built on React & Node.js.
+* **[IntrnForte-Ecommerce](https://github.com/shashankachar19/IntrnForte-Ecommerce-Project):** Fully functional product listing web application built during my IntrnForte Internship.
 
 **The Objective:** Leveraging my past Full-Stack experience at Prodigy Infotech to lock down production-level internships in the Cloud or Cyber Security domains.
 
+<br/>
+
 <details>
-  <summary><b>[ Click to reveal my Off-Screen identity ]</b></summary>
+  <summary><b>&gt; System.Diagnostics: Reveal Off-Screen Identity</b></summary>
   <br/>
-  I am hopelessly addicted to gaming and rarely see the sun. If my IDE is closed, I am probably:
-  <ul>
-    <li>Putting in absurdly long, unhealthy sessions in <b>Forza Horizon 5</b>.</li>
-    <li>Grinding <b>GTA 5</b>, <b>Free Fire</b>, or forever revisiting <b>GTA Vice City</b>.</li>
-    <li>Catching hands in <b>Skullgirls</b>.</li>
-    <li>Watching entirely too much anime.</li>
-  </ul>
-  <i>"I don't touch grass, I render it."</i>
+  <blockquote>
+    <b>WARNING: Sunlight Deprivation Detected.</b><br><br>
+    <b>Active Background Processes:</b><br>
+    - <code>fh5.exe</code> (Executing absurdly long, unhealthy racing sessions)<br>
+    - <code>gta_retro.exe</code> (Running nostalgia protocols for GTA 5 & Vice City)<br>
+    - <code>combat_testing.sh</code> (Grinding Free Fire & catching hands in Skullgirls)<br>
+    - <code>anime_stream.sys</code> (Continuous playback enabled)<br><br>
+    <i>"I don't touch grass, I render it."</i>
+  </blockquote>
 </details>
 
 <br clear="all" />
