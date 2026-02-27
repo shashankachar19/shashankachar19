@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shashankachar19&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Former_Full--Stack_Intern-Prodigy_Infotech-000000?style=for-the-badge&logoColor=white" alt="Internship" />
+<img src="https://komarev.com/ghpvc/?username=shashankachar19-v1&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Former_Full--Stack_Intern-Prodigy_InfoTech-000000?style=for-the-badge&logoColor=white" alt="Internship" />
 <img src="https://img.shields.io/badge/Actively_Seeking-Cloud_%26_Cyber_Security_Internships-FF6B6B?style=for-the-badge" alt="Seeking Internship" />
 
 <br/><br/>
@@ -28,22 +28,22 @@
 
 ### The Vibe & The Code
 
-<img align="right" width="350" src="https://media.tenor.com/bK1RAd8H-xMAAAAC/lofi-chill.gif" alt="Late Night Coding GIF">
-
 > I love architecting full-stack applications and am actively expanding my horizons into Cloud computing and Cyber Security.
 
-**Current Grind:** Exploring AWS, getting hands-on with network security tools like Nmap, and tackling a Java course via NPTEL.
+**Current Grind:** Exploring AWS, getting hands-on with network security tools like Nmap, tackling a Java course via NPTEL, and brainstorming for the upcoming Agritech Hackathon at GSSSIETW.
 
-**Featured Builds:**
-* **[Slice](https://github.com/shashankachar19/Slice):** A bill-splitting app that extracts line items from receipt images via OCR. (Deployed).
-* **[SkillSwap](https://github.com/shashankachar19/SkillSwap):** A secure MERN-stack P2P learning platform featuring real-time chat, JWT security, and Google OAuth.
+**Workflow:** Leveraging AI pair programming (Codex, Gemini) for rapid architectural prototyping, allowing me to orchestrate solutions and focus heavily on system design.
 
-**The Vault (Archived Builds):**
-* **[Amazon-Replica](https://github.com/shashankachar19/Amazon-replica):** Full-stack e-commerce architecture (React/Node.js) featuring Google OAuth and a comprehensive suite of 50+ automated test cases.
-* **[AI-Muse-Research-Platform](https://github.com/shashankachar19/AI-Muse-Research-Platform):** Advanced full-stack assistant with collaboration tools built on React & Node.js.
-* **[IntrnForte-Ecommerce](https://github.com/shashankachar19/IntrnForte-Ecommerce-Project):** Fully functional product listing web application built during my IntrnForte Internship.
+**The Objective:** Leveraging my past Full-Stack experience at Prodigy InfoTech to lock down production-level internships in the Cloud or Cyber Security domains.
 
-**The Objective:** Leveraging my past Full-Stack experience at Prodigy Infotech to lock down production-level internships in the Cloud or Cyber Security domains.
+<br/>
+
+###Project Directory
+
+| FEATURED BUILDS | THE VAULT (ARCHIVED) |
+| :--- | :--- |
+| **[Slice](https://github.com/shashankachar19/Slice)**<br>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)<br>TypeScript bill-splitting app with receipt OCR extraction. (Deployed) | **[Amazon-Replica](https://github.com/shashankachar19/Amazon-replica)**<br>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)<br>Full-stack React/Node.js e-commerce architecture with 50+ test cases. |
+| **[SkillSwap](https://github.com/shashankachar19/SkillSwap)**<br>![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)<br>Secure MERN P2P learning platform featuring real-time chat, JWT security, and Google OAuth. | **[AI-Muse-Research-Platform](https://github.com/shashankachar19/AI-Muse-Research-Platform)**<br>![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)<br>Advanced full-stack AI research assistant with collaboration tools. |
 
 <br/>
 
@@ -52,11 +52,11 @@
   <br/>
   <blockquote>
     <b>WARNING: Sunlight Deprivation Detected.</b><br><br>
-    <b>Active Background Processes:</b><br>
-    - <code>fh5.exe</code> (Executing absurdly long, unhealthy racing sessions)<br>
-    - <code>gta_retro.exe</code> (Running nostalgia protocols for GTA 5 & Vice City)<br>
-    - <code>combat_testing.sh</code> (Grinding Free Fire & catching hands in Skullgirls)<br>
-    - <code>anime_stream.sys</code> (Continuous playback enabled)<br><br>
+    If my IDE is closed, I am probably:<br>
+    - Putting in absurdly long sessions in <b>Forza Horizon 5</b>.<br>
+    - Grinding <b>GTA 5</b>, <b>Free Fire</b>, or revisiting classic <b>GTA Vice City</b>.<br>
+    - Catching hands in <b>Skullgirls</b>.<br>
+    - Watching entirely too much anime.<br><br>
     <i>"I don't touch grass, I render it."</i>
   </blockquote>
 </details>
@@ -76,9 +76,25 @@
 
 ---
 
-### GitHub Stats
+### System Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankachar19&theme=tokyonight&bg_color=1a1b27&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="Activity Graph" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankachar19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankachar19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankachar19/shashankachar19/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankachar19/shashankachar19/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/shashankachar19/shashankachar19/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <b>Ready to build something scalable?</b><br>
+  <a href="mailto:shashankachar1981@gmail.com">Drop me an email</a> • <a href="https://www.linkedin.com/in/shashank-s-50506b312/" target="_blank">Connect on LinkedIn</a>
 </div>
