@@ -2,7 +2,15 @@
 
 # Hi, I'm Shashank
 
-### Full-Stack Developer | Cloud Enthusiast | Vibe Coder
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Enthusiast;Cyber+Security+Explorer;Vibe+Coder" alt="Typing SVG" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shashankachar19&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Former_Full--Stack_Intern-Prodigy_Infotech-000000?style=for-the-badge&logoColor=white" alt="Internship" />
+<img src="https://img.shields.io/badge/Actively_Seeking-Cloud_%26_Cyber_Security_Internships-FF6B6B?style=for-the-badge" alt="Seeking Internship" />
+
+<br/><br/>
 
 <a href="mailto:shashankachar1981@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -20,24 +28,45 @@
 
 ### The Vibe & The Code
 
-I love architecting full-stack applications and am actively expanding my horizons into Cloud computing and Cyber Security.
+<img align="right" width="350" src="https://media.tenor.com/bK1RAd8H-xMAAAAC/lofi-chill.gif" alt="Late Night Coding GIF">
 
-Right now, I'm exploring **AWS**, getting hands-on with network security tools like **Nmap**, and currently tackling a **Java** course via NPTEL.
+> I love architecting full-stack applications and am actively expanding my horizons into Cloud computing and Cyber Security.
 
-Currently building and scaling two main projects: 
-* **Slice:** A bill-splitting app that extracts line items from receipt images to help groups split costs in a shared lobby.
-* **SkillSwap:** A secure MERN-stack P2P learning platform featuring real-time chat, video calls, JWT security, and Google OAuth.
+**Current Grind:** Exploring AWS, getting hands-on with network security tools like Nmap, and tackling a Java course via NPTEL.
 
-Near Future Goals: Locking down internships in the Cloud or Cyber Security domains to get hands-on production experience.
+**Featured Builds:**
+* **Slice:** A bill-splitting app that extracts line items from receipt images.
+* **SkillSwap:** A secure MERN-stack P2P learning platform.
 
-Fun Fact: I rarely touch grass or see the sun. When the IDE closes, I'm usually grinding in FH5, GTA 5, Free Fire, Skullgirls, or revisiting classic GTA Vice City.
+**The Vault (Archived Builds):**
+* **E-Commerce Storefront:** An Amazon-inspired full-stack platform.
+* **Real-Time Comm:** A responsive chat application.
+* **Security:** A custom, secure user authentication system.
+
+**The Objective:** Leveraging my past Full-Stack experience at Prodigy Infotech to lock down production-level internships in the Cloud or Cyber Security domains.
+
+<details>
+  <summary><b>[ Click to reveal my Off-Screen identity ]</b></summary>
+  <br/>
+  I am hopelessly addicted to gaming and rarely see the sun. If my IDE is closed, I am probably:
+  <ul>
+    <li>Putting in absurdly long, unhealthy sessions in <b>Forza Horizon 5</b>.</li>
+    <li>Grinding <b>GTA 5</b>, <b>Free Fire</b>, or forever revisiting <b>GTA Vice City</b>.</li>
+    <li>Catching hands in <b>Skullgirls</b>.</li>
+    <li>Watching entirely too much anime.</li>
+  </ul>
+  <i>"I don't touch grass, I render it."</i>
+</details>
+
+<br clear="all" />
+<br/>
 
 ---
 
 ### Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mongo,express,react,nodejs,aws,ubuntu,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,mongo,express,react,nodejs,aws,ubuntu,linux,bash,git,github" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -47,6 +76,6 @@ Fun Fact: I rarely touch grass or see the sun. When the IDE closes, I'm usually 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankachar19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankachar19&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankachar19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankachar19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
