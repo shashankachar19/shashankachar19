@@ -30,7 +30,7 @@
 
 > I love architecting full-stack applications and am actively expanding my horizons into Cloud computing and Cyber Security.
 
-**Current Grind:** Exploring AWS, getting hands-on with network security tools like Nmap, tackling a Java course via NPTEL, and brainstorming for the upcoming Agritech Hackathon at GSSSIETW.
+**Current Grind:** Exploring AWS, getting hands-on with network security tools like Nmap, tackling a Java course via NPTEL and won Award of Excellence in build with bengaluru hackathon.
 
 **Workflow:** Leveraging AI pair programming (Codex, Gemini) for rapid architectural prototyping, allowing me to orchestrate solutions and focus heavily on system design.
 
